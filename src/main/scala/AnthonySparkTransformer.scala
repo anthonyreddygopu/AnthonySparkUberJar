@@ -4,6 +4,7 @@
 // spark-submit --class AnthonySparkTransformer --master yarn --deploy-mode cluster AnthonySparkScalaProject-1.0-SNAPSHOT-fat.jar
 // D:\Projects\AnthonySparkScalaProject\target>jar -tf AnthonySparkScalaProject-1.0-SNAPSHOT-fat.jar > hello
 // https://mkyong.com/maven/create-a-fat-jar-file-maven-shade-plugin/
+// Author : Anthony Reddy Gopu
 
 import org.apache.spark.sql.SparkSession
 
